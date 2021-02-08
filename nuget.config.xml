@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <packageSources>
+        <clear />
+        <add key="dotnet5" value="https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet5/nuget/v3/index.json" />
+        <add key="nuget.org" value="https://api.nuget.org/v3/index.json" />
+        <add key="github" value="https://nuget.pkg.github.com/cresalex/index.json" />
+    </packageSources>
+    <disabledPackageSources>
+        <clear />
+    </disabledPackageSources>
+    <github>
+        <add key="username" value="nyarlatotep" />
+        <add key="ClearTextPassword" value="ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDZkw9Zuuux9kpOAQPuNmVCJwIRkCecoU2zl9OJXCXkotPH9lYXpDkssN0AHae+KjNXHbRX7y61qaDEBhIO3MQJGMGbSXYJRl8IS6nFhN4v2WKQakHx0gOvbBwTB8Caq6TQz1qbxZl+dm7vWaY1Y4u9EJA+DEFchKyvm55wh2L1uV8p89cwZmrik4p2kMW3qwZvGNiv7Zt2yUAC2h3WpmHk3abE/vafTXManHtJrm/gTF5jFdCEQRwtnVuSrMJtcYNxLlmxAHSpYP8m1uxAGkA6NhaOm1IkyezL0UB3hpOZrggv99auy0gPJBnnLI2W8V5gXrVhsBQBC9O6eAZO0rLxsaun7mDIkrZnF7DA9juWHsHReYfczqSfr3TsIXVGulLfpicUaORhEy4D/9JB2CpDqqcdVRZJ+1/x6hxS3ipMKCKzwmf2FWmMhfFiGJ+QjXwUk+/WjmiwKtLwCgHv2O4CfPDymfOpIMK8laLrc+sAaj0pvFyYG4ObEKIEcqBvbzAZ4BwJmf8d8Wr2mlkYyFnJzgrWbFAVdZIH50QTWsgWxhNl6s9lgO2K3AHopPXHzE5lxQ76X9uv0PBGqhp2uQBgvj21wAhmSoYNz9s9zH/vA+IyHomt6c8J/gMCMuAOjzQwv3HIi9aEqLMfi8xgoLGmU9bgmVdzfZL7AUM+GOcb/Q== daniel crespo@R2D2-OP" />
+    </github>
+</configuration>
