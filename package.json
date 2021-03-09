@@ -1,0 +1,25 @@
+{
+  "name": "npmpack",
+  "version": "1.0.0",
+  "description": "Node.js dependency package ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cresalex/vetrodilusso_site.git"
+  },
+  "keywords": [
+    "npmpack",
+    "vetrodilusso",
+    "packaje",
+    "JSONpack"
+  ],
+  "author": "danielcrespo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cresalex/vetrodilusso_site/issues"
+  },
+  "homepage": "https://github.com/cresalex/vetrodilusso_site#readme"
+}
